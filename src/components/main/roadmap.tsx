@@ -20,38 +20,58 @@ const _roadmaps: ITEM[][] = [
             description: ''
         }, 
         {
-            title: 'Youtube Marketing',
-            description: ''
+            title: 'Landing Page & Tokenomics',
+            description: 'New landing page with roadmap, Soonak economics, how to buy, and team section'
         },
         {
-            title: 'Social Marketing',
-            description: ''
+            title: 'YouTube & Social Marketing',
+            description: 'Video updates, TikTok memes, and Twitter community building'
         }
     ],
     [
         {
-            title: 'AIRDROP',
-            description: 'There will be an airdrop of newly created Keyer Stammer tokens to the holders of Soonak Coin - The snapshot date will be the 5th July'
+            title: 'Kia Stammer Airdrop',
+            description: 'Airdrop of newly created Kia Stammer tokens to SOONAK holders — snapshot date to be announced'
         },
         {
             title: 'Centralised Exchange Listing',
-            description: 'Soonak will be added to centralised exchanges very soon, watch this space for more info!'
+            description: 'SOONAK will be added to centralised exchanges — watch this space!'
+        },
+        {
+            title: 'SoonMemes — Meme Launcher',
+            description: 'Launch your own meme coins on Solana with the SoonMemes platform'
         },
     ],
     [
         {
             title: 'MEME Wars',
-            description: 'Following the Airdrops and centralised exchange listings, SOONAK will launch its own NFT collection, designed by a top Solana MEME house - RAID BOSS MEDIA'
-        }
+            description: 'A meme battle platform where the community creates, competes, and votes on the best memes — powered by RAID BOSS MEDIA'
+        },
+        {
+            title: 'SOONAK Pad',
+            description: 'IDO launchpad on Solana for new projects to raise and launch with SOONAK community backing'
+        },
+        {
+            title: 'SOONAK DAO',
+            description: 'Community-managed treasury giving holders governance over ecosystem decisions and funding'
+        },
     ],
     [
         {
-            title: 'Regular video updates from the team',
-            description: 'The SOONAK team will be releasing regular video updates to allow the community to know whats being worked on and what will come in the future.'
+            title: 'SOONAK Vest',
+            description: 'Secure vesting contracts unlockable by time, DAO votes, or project market cap milestones'
+        },
+        {
+            title: 'SOONAK Pledge',
+            description: 'Escrow-style payments held in smart contracts, released on-chain when conditions are met'
         },
         {
             title: 'SOONAK NFTs',
-            description: 'Following the Airdrops and centralised exchange listings, SOONAK will launch its own NFT collection, designed by a top Solana MEME house - RAID BOSS MEDIA'
+            description: 'PFP NFT collection launching at 5K holders, designed by RAID BOSS MEDIA'
+        },
+        {
+            title: 'SOONAK Shares',
+            description: 'Revenue-sharing claim pool based on snapshot — holders earn a share of fees from all SOONAK ecosystem products'
         },
     ],
 ]
