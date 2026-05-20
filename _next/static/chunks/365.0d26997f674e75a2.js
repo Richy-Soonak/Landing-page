@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[365],{1365:(e,l,r)=>{r.r(l),r.d(l,{default:()=>u});var s=r(5155),t=r(5379);let u=e=>{let{children:l,...r}=e;return(0,s.jsx)(t.N,{...r,children:l})}}}]);
