@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "soonak-landing",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,32 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@iconify/react": "^5.0.1",
-    "@nextui-org/react": "^2.4.1",
+    "@iconify/react": "^5.2.0",
+    "@nextui-org/react": "^2.6.0",
     "aos": "^2.3.4",
-    "framer-motion": "^11.2.10",
-    "i": "^0.3.7",
-    "next": "14.2.3",
-    "next-themes": "^0.3.0",
-    "npm": "^10.8.1",
-    "react": "^18",
-    "react-dom": "^18",
-    "react-hot-toast": "^2.4.1",
+    "framer-motion": "^12.0.0",
+    "next": "^15.3.0",
+    "next-themes": "^0.4.0",
+    "react": "^19",
+    "react-dom": "^19",
+    "react-hot-toast": "^2.5.0",
     "react-icon-cloud": "^4.1.4",
-    "react-player": "^2.16.0",
+    "react-player": "^3.0.0",
     "react-youtube": "^10.1.0",
-    "swiper": "^11.1.4"
+    "swiper": "12.1.4"
   },
   "devDependencies": {
     "@types/aos": "^3.0.7",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "cobe": "^0.6.3",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.3",
-    "postcss": "^8",
-    "react-spring": "^9.7.3",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^15.3.0",
+    "postcss": "^8.5.15",
+    "react-spring": "^10.0.0",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }

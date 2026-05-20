@@ -129,7 +129,7 @@ export default function Home() {
               <div className="w-full flex flex-col rounded-2xl h-full clip bg-[#1F193E] px-6 pt-10 pb-2 rounded-tr-[55px] border-b border-white]">
                 <ReactPlayer
                   controls
-                  url={movie.url}
+                  src={movie.url}
                   playing={true}
                   width='100%'
                   className="rounded-xl w-full aspect-video"
